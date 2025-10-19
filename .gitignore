@@ -42,3 +42,4 @@ data/tmp/
 # ---- Frontend (dacă ai UI în browser) ----
 node_modules/
 dist/
+logs/
